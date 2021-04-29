@@ -6,15 +6,15 @@
 
 This is a [link](https://github.com/qiaoguanwen/- "AS a Headline"). 
 
-## Link to branch2
+## Link to qiaoguanwen
 
 This is a [link](https://github.com/qiaoguanwen/-/new/main "AS a Headline"). 
 
-## Link to external website
+## Link to External website
 
 This is a [link](https://www.google.cn/ "AS a Headline"). 
 
-### The character who impresses me most
+### My favorite scenery
 
 ![image](https://github.com/qiaoguanwen/-/blob/main/qiao.jfif)
 
